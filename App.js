@@ -14,6 +14,15 @@ import CartScreen from './src/Screens/CartScreen';
 const Stack = createNativeStackNavigator()
 const Tab = createBottomTabNavigator()
 
+/* 
+**Disclaimer:**
+The icons and images used in this project are for development purposes only.
+They are not intended for commercial distribution. 
+Please refrain from using them in any commercial products or services.
+If you require production-ready assets, consider obtaining proper licenses or creating custom designs or images.
+
+*/
+
 function TabNavigator() {
   return (
     <Tab.Navigator screenOptions={{
